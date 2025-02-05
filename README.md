@@ -66,7 +66,7 @@ python main.py
 - 🔥 Add power-ups (speed boost, slow-motion, teleport)  
 - 🎶 Add sound effects for hits & explosions  
 - 🎨 Improve lighting effects with real-time shadows  
-- 🌍 Online Multiplayer (stretch goal)  
+- 🌍 Online Multiplayer
 
 ---
 
