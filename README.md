@@ -1,7 +1,7 @@
 # 🚀 Plasma Pong - Quantum Edition  
 An electrified reimagination of Pong with **dynamic lighting**, **particle physics**, and **AI opponents**.  
 
-<img src="https://github.com/user-attachments/assets/5861fe79-1f96-46e4-b3b3-798373b5b651" width="800">
+<img src="https://github.com/user-attachments/assets/5861fe79-1f96-46e4-b3b3-798373b5b651" width="600">
 
 ---
 
@@ -48,10 +48,10 @@ python main.py
 ## 📸 Screenshots  
 
 #### **Menu Screen**  
-<img src="https://github.com/user-attachments/assets/0edaf4e2-f3e0-472e-b056-e20d2219aa13" width="800">
+<img src="https://github.com/user-attachments/assets/0edaf4e2-f3e0-472e-b056-e20d2219aa13" width="600">
 
 #### **Gameplay**  
-<img src="https://github.com/user-attachments/assets/820f0a61-01e4-45c0-9c07-6c725be4a4e4" width="800">
+<img src="https://github.com/user-attachments/assets/820f0a61-01e4-45c0-9c07-6c725be4a4e4" width="600">
 
 ---
 
